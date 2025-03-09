@@ -5,14 +5,24 @@
 
 ###
 
-<img align="right" height="150" src="https://imgflip.com/gif/9mrzvz"  />
+<p align="left">Tools</p>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/whorshe/whorshe/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/736x/f4/f6/34/f4f634a9286843351a7940ca7e425de3.jpg"  />
 </div>
 
 ###
