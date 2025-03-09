@@ -6,7 +6,7 @@
 </div>
 
 <p align="left">
-  <img src="URL_DA_IMAGEM" width="150" align="right">
+  <img src="https://i.pinimg.com/736x/f4/f6/34/f4f634a9286843351a7940ca7e425de3.jpg" width="150" align="right">
 </p>
 
 ### Technologies and Tools:
