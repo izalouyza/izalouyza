@@ -16,9 +16,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/whorshe/whorshe/output/snake.svg" alt="Snake animation" />
-
-###
