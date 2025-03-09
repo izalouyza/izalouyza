@@ -3,6 +3,21 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=whorshe&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="143" alt="languages graph"  />
 </div>
 
+### Technologies and Tools:
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
+  <img width="12" />
+  <!-- Falcon (use a custom image URL) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Falcon_logo.svg" height="40" alt="Falcon" />
+  <img width="12" />
+  <!-- DevC+ (use a custom image URL) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Dev-C%2B%2B_logo.svg" height="40" alt="DevC+" />
+</div>
+
+
 ### 
 
 <div align="center">
