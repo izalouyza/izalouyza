@@ -10,3 +10,7 @@
 <div align="center">
   <img height="200" src="https://i.pinimg.com/736x/f4/f6/34/f4f634a9286843351a7940ca7e425de3.jpg"  />
 </div>
+
+<img src="https://raw.githubusercontent.com/whorshe/whorshe/output/snake.svg" alt="Snake animation" />
+
+###
