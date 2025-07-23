@@ -1,16 +1,29 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72798&width=435&lines=Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=izalouyza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=izalouyza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="143" alt="languages graph"  />
-</div>
-
-### 
-
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/736x/f4/f6/34/f4f634a9286843351a7940ca7e425de3.jpg"  />
-</div>
-
-<img src="https://raw.githubusercontent.com/izalouyza/izalouyza/output/snake.svg" alt="Snake animation" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 
 ###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=izalouyza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=izalouyza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+</div>
+
+###
+
+### &nbsp;Tech Stack
+
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+###
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/izalouyza/izalouyza/output/snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/izalouyza/izalouyza/output/snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/izalouyza/izalouyza/output/snake.svg" />
+</picture>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
