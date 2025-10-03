@@ -1,12 +1,11 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3f2e6f&height=120&section=header"/>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=izalouyza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&cache_seconds=60" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=izalouyza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&cache_seconds=60" height="150" alt="languages graph" />
+<img src="https://github-readme-stats.vercel.app/api?username=izalouyza&theme=jolly&show_icons=true&hide_border=true&count_private=false" height="150" alt="stats graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izalouyza&theme=jolly&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph" />
 </div>
-
 
 ###
 
@@ -30,4 +29,4 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/izalouyza/izalouyza/output/snake.svg" />
 </picture>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3f2e6f&height=120&section=header"/>
