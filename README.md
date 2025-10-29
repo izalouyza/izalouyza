@@ -26,10 +26,4 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/izalouyza/izalouyza/output/snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/izalouyza/izalouyza/output/snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/izalouyza/izalouyza/output/snake.svg" />
-</picture>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3f2e6f&height=120&section=header"/>
