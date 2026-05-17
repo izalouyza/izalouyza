@@ -22,7 +22,7 @@
 
 </div>
 
-## 💻 Techs
+## Techs
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/C-D64878?style=flat-square&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-D64878?style=flat-square&logo=java&logoColor=white" />
@@ -33,7 +33,7 @@
 
 <br>
 
-## 🛠️ Tools
+## Tools
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/Git-D64878?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-D64878?style=flat-square&logo=github&logoColor=white" />
