@@ -35,6 +35,7 @@
 
 ## Tools
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/Figma-D64878?style=flat-square&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-D64878?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-D64878?style=flat-square&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/IntelliJ-D64878?style=flat-square&logo=intellijidea&logoColor=white" />
