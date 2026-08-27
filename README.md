@@ -22,6 +22,8 @@ Information Technology (IT) student with interests in **Software Engineering**, 
   <img src="https://img.shields.io/badge/Java-30363D?style=flat-square&logo=java&logoColor=F0F0F0" />
   <img src="https://img.shields.io/badge/LaTeX-30363D?style=flat-square&logo=latex&logoColor=F0F0F0" />
   <img src="https://img.shields.io/badge/PostgreSQL-30363D?style=flat-square&logo=postgresql&logoColor=F0F0F0" />
+  <img src="https://img.shields.io/badge/Python-30363D?style=flat-square&logo=python&logoColor=F0F0F0" />
+  <img src="https://img.shields.io/badge/Robot%20Framework-30363D?style=flat-square&logo=robotframework&logoColor=F0F0F0" />
   <img src="https://img.shields.io/badge/SQL-30363D?style=flat-square&logo=sqlite&logoColor=F0F0F0" />
 </div>
 
