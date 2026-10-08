@@ -11,8 +11,7 @@
 
 <br>
 
-Information Technology (IT) student with interests in **Software Engineering**, **Requirements Engineering**, and **Software Quality** (QSW), with a focus on **Quality Assurance** (QA), **Software Testing**, **agile methodologies**, and **system design and planning**.
-
+Information Technology (IT) student at UFERSA, interested in Software Engineering, Software Quality, and Software Testing. Currently a QA at AltoTech, a junior enterprise, and a researcher in Software Quality and Testing. Enthusiast of Agile Methodologies and Requirements Engineering.
 <br>
 
 ## Techs
